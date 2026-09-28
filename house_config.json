@@ -1,4 +1,7 @@
 {
-  "target_temperature": 18.0,
-  "last_updated_by": "Android-Operator"
+  "target_temperature": 17.0,
+  "living_room_lights": "OFF",
+  "hvac_mode": "AUTO",
+  "security_system": "ARMED",
+  "last_updated_by": "EcoAgent"
 }
